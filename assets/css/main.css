@@ -331,6 +331,7 @@ input, select, textarea {
 	.zoom {
 		transition: transform .2s;
 		margin: 0 auto;
+		transform: scale(0.25); 
 	}
 
 	.zoom:hover {
