@@ -331,13 +331,13 @@ input, select, textarea {
 	.zoom {
 		transition: transform .2s;
 		margin: 0 auto;
-		transform: scale(0.25); 
+		transform: scale(0.75); 
 	}
 
 	.zoom:hover {
 		-ms-transform: scale(1.5); /* IE 9 */
 		-webkit-transform: scale(1.5); /* Safari 3-8 */
-		transform: scale(1.5); 
+		transform: scale(1); 
 	}
 	.row {
 		display: flex;
