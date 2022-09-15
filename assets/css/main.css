@@ -2570,17 +2570,16 @@ input, select, textarea {
 				}
 
 /* Image */
-
+	.scalezoomimg {
+		 max-width: 100%;
+		 height: auto;
+	}
 	.image {
 		border-radius: 0.25em;
 		border: 0;
 		display: inline-block;
 		position: relative;
 	}
-		.image.scalezoom {
-			 max-width: 100%;
- 			 height: auto;
-		}
 
 		.image img {
 			border-radius: 0.25em;
