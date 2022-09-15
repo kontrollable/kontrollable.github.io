@@ -2571,7 +2571,7 @@ input, select, textarea {
 
 /* Image */
 	.scalezoomimg {
-		 max-width: 100%;
+		 max-width: 10%;
 		 height: auto;
 	}
 	.image {
