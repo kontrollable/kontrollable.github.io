@@ -2571,10 +2571,12 @@ input, select, textarea {
 
 /* Image */
 	.scalezoomimg {
-		 max-width: 10%;
-		 height: auto;
+	 max-width: 10%;
+	 height: auto;
 	}
 	.image {
+		max-width: 10%;
+		height: auto;
 		border-radius: 0.25em;
 		border: 0;
 		display: inline-block;
