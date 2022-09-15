@@ -329,12 +329,16 @@ input, select, textarea {
 
 /* Row */
 	.zoom {
+		max-width: 100%;
+  		height: auto;
 		transition: transform .2s;
 		margin: 0 auto;
 		transform: scale(0.75); 
 	}
 
 	.zoom:hover {
+		max-width: 100%;
+  		height: auto;
 		-ms-transform: scale(1); /* IE 9 */
 		-webkit-transform: scale(1); /* Safari 3-8 */
 		transform: scale(1); 
