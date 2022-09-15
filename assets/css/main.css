@@ -2577,6 +2577,10 @@ input, select, textarea {
 		display: inline-block;
 		position: relative;
 	}
+		.image.scalezoom {
+			 max-width: 100%;
+ 			 height: auto;
+		}
 
 		.image img {
 			border-radius: 0.25em;
@@ -2622,6 +2626,7 @@ input, select, textarea {
 			.image.main img {
 				width: 100%;
 			}
+		
 
 /* List */
 
