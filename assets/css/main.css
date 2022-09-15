@@ -2575,7 +2575,7 @@ scalezoomimg {
  height: auto;
 }
 	.image {
-		max-width: 10%;
+		max-width: 100%;
 		height: auto;
 		border-radius: 0.25em;
 		border: 0;
