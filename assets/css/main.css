@@ -2570,10 +2570,10 @@ input, select, textarea {
 				}
 
 /* Image */
-	.scalezoomimg {
-	 max-width: 10%;
-	 height: auto;
-	}
+scalezoomimg {
+ max-width: 10%;
+ height: auto;
+}
 	.image {
 		max-width: 10%;
 		height: auto;
